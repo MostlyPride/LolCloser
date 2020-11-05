@@ -34,6 +34,8 @@ As for people wanting to understand how this works, basically AHK (Auto Hot Key)
 If league of legends is not at the front or you are tabbed out into another program or application pressing ALT+F4 will work like normal. (it will close out of whatever you have open.) 
 
 If you have issues feel free to contact me on discord "Rise#4879"
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 FAQ (Frequently Asked Questions)
 

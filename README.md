@@ -6,15 +6,21 @@ How to use.
 Method 1. (Best Method)
 
 Step 1. Download LolCloser.exe
+
 Step 2. Run LolCloser.exe - It will just sit idle on your treybar at the bottom right.
+
 Step 3. When you are in game and press ALT+F4 on your keyboard now, it will immediately close out of league of legends game.
+
 Issues - If it is not working, please run the program as a administrator.
 
 Method 2. (Only if you have AHK installed)
 
 Step 1. Download LolCloser.AHK
+
 Step 2. Run LolCloser.AHK - It will just sit idle on your treybar at the bottom right.
+
 Step 3. When you are in game and press ALT+F4 on your keyboard now, it will immediately close out of league of legends game.
+
 Issues - If it is not working, please run the program as a administrator.
 
 Developer Notes - 
@@ -29,10 +35,15 @@ If you have issues feel free to contact me on discord "Rise#4879"
 FAQ (Frequently Asked Questions)
 
 Q: Is this a virus?
+
 A: No, and if you don't believe me you can download the AHK source yourself and compile it. I just have the exe version to make it easier for those whom do not know how to.
+
 Q: Can we rebind this to other keys?
+
 A: Yes you can! You could do almost any combination of keys, you could download the source yourself and edit it or contact me on discord if you need help.
+
 Q: Will we be banned for using this?
+
 A: No, Riot's anticheat team is smart enough to detect a game assisting macro vs a simple program closing one. | Hello Phil & Matt ;)
 
 Enjoy :D

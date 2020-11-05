@@ -12,6 +12,7 @@ Step 2. Run LolCloser.exe - It will just sit idle on your treybar at the bottom 
 Step 3. When you are in game and press ALT+F4 on your keyboard now, it will immediately close out of league of legends game.
 
 Issues - If it is not working, please run the program as a administrator.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Method 2. (Only if you have AHK installed)
 
@@ -22,6 +23,8 @@ Step 2. Run LolCloser.AHK - It will just sit idle on your treybar at the bottom 
 Step 3. When you are in game and press ALT+F4 on your keyboard now, it will immediately close out of league of legends game.
 
 Issues - If it is not working, please run the program as a administrator.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Developer Notes - 
 This is developped for the 64 bit version of League Of Legends, so if you are on older hardware it may or may not work. This will bypass Riots Anti Alt F4 they have implemented, as well if you are currently experiencing the NEW BUG on 10.22 where your computer will freeze after game ends or your client does, this can fix that as well. Just make sure you ALT F4 prior to your game ending.. so when the nexus is just about to go RIP.
